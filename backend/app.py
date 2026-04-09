@@ -7,10 +7,10 @@ CORS(app)
 
 # Database Configuration
 db_config = {
-    'host': 'book-rds.cinsoscgioqa.us-east-1.rds.amazonaws.com',
+    'host': 'jenkins-9-db.crm2q684quib.us-west-2.rds.amazonaws.com',
     'user': 'admin',
-    'password': 'SuperSecretPass123',
-    'database': 'dev'
+    'password': 'Sidd1234',
+    'database': 'jenkins-9-db'
 }
 
 # Connect to MySQL
