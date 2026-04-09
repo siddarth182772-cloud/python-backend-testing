@@ -10,7 +10,7 @@ db_config = {
     'host': 'jenkins-9-db.crm2q684quib.us-west-2.rds.amazonaws.com',
     'user': 'admin',
     'password': 'Sidd1234',
-    'database': 'jenkins-9-db'
+    'database': 'dev'
 }
 
 # Connect to MySQL
